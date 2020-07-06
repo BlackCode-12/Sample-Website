@@ -1,0 +1,28 @@
+
+.wrapper{
+    min-height: 100%;
+    position: relative;
+    
+}
+
+#footer{
+    position: absolute;
+    padding: 10px 0;
+    background-color:  #101010;
+    color:#9d9d9d;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+
+.tas{
+    text-decoration: none;
+    color: inherit;
+}
+
+.tas:hover{
+    text-decoration: red;
+    color: red;
+}
+
